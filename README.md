@@ -1,2 +1,2 @@
-# javabootcampday2
-Assignment Repo for Day 2 | Mastering Conditional Statements | Java Programming Essentials Bootcamp
+# LetsUpgrade Bootcamp Assignment Repo
+Assignment Repo Java Programming Essentials Bootcamp
